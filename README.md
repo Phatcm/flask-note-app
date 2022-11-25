@@ -6,6 +6,8 @@ pip install -r requirements.txt
 
 Install postgresql and pgadmin
 
+Create a new database named FlaskNoteApp
+
 Set up path for database in __init__ file
 
 #Running The App:
